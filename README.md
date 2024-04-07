@@ -1,7 +1,4 @@
 # Plateforme de Vente de Meubles - README
-![Chaise-volantes1](https://github.com/Stoyots/Chaise_Volante/assets/146749062/491120ea-86bb-4c36-95a6-7bf42645b4de)
-![Chaise-volantes2](https://github.com/Stoyots/Chaise_Volante/assets/146749062/61759efb-4eda-4ce4-9a75-29cc5911e1aa)
-![Chaise-volantes3](https://github.com/Stoyots/Chaise_Volante/assets/146749062/cd25ec2d-fed5-4c2f-ab61-6d30f535002b)
 
 Bienvenue sur la plateforme de vente de meubles ! Ce projet, développé en React, vise à créer une expérience de shopping en ligne pour les passionnés de mobilier. Vous pouvez accéder à la version actuelle du site [ici](https://plateforme-vente-meubles-chaisesvolantes-front.vercel.app/).
 
@@ -39,3 +36,7 @@ Nous accueillons volontiers les contributions de la communauté ! Si vous souhai
 Ce projet a été développé par Tom Benchetrit et son équipe dans le cadre d'un projet de formation en développement web. Pour toute question ou suggestion, n'hésitez pas à me contacter !
 
 Merci d'avoir visité notre plateforme de vente de meubles. Happy shopping! 🛋️✨
+
+![Chaise-volantes1](https://github.com/Stoyots/Chaise_Volante/assets/146749062/491120ea-86bb-4c36-95a6-7bf42645b4de)
+![Chaise-volantes2](https://github.com/Stoyots/Chaise_Volante/assets/146749062/61759efb-4eda-4ce4-9a75-29cc5911e1aa)
+![Chaise-volantes3](https://github.com/Stoyots/Chaise_Volante/assets/146749062/cd25ec2d-fed5-4c2f-ab61-6d30f535002b)
